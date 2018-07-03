@@ -1,2 +1,2 @@
-# bootstrap-demo
-bootstrap example
+# Bootstrap-demo
+Bootstrap Example
